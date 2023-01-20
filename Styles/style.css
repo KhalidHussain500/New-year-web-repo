@@ -17,9 +17,20 @@
 
 }
 .Text-container{
-    margin: 260px 200px 200px 900px;
+    margin: 260px 200px 200px 850px;
     color: white;
 
+}
+.btn{
+    height: 50px;
+    padding-left: 35px; 
+    padding-right: 35px;
+    background-color: white;
+    color: rgb(100, 100, 243);
+    border: 0;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 17px;
 }
 .year-container{
     width: 100%;
@@ -27,6 +38,6 @@
     display: flex;
     justify-content: space-between;
 }
-.perg{
+.passage{
     background-color: blueviolet;
 }
